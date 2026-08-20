@@ -1,56 +1,54 @@
-# Name Greeting Web Project
+# Personal Portfolio Website
 
-## 📌 Project Description
+## 📌 About the Project
 
-This is a simple interactive web application created using **HTML and JavaScript**. The project allows the user to enter their name into a text box and click the **"Greet Me"** button. After clicking the button, the application displays a personalized greeting message using the name entered by the user.
-
-The project demonstrates the basic interaction between an HTML webpage and JavaScript. It is useful for understanding HTML elements, JavaScript functions, DOM manipulation, user input, and button click events.
-
----
-
-## 🎯 Objective
-
-The main objective of this project is to create a simple interactive webpage that:
-
-- Accepts a user's name as input.
-- Detects when the user clicks the "Greet Me" button.
-- Retrieves the entered name using JavaScript.
-- Displays a personalized greeting message.
-- Demonstrates basic JavaScript and DOM manipulation.
-
----
+This is a personal portfolio website developed using **HTML, CSS, and JavaScript**. It showcases personal information, education, skills, projects, contact details, and a GitHub profile.
 
 ## 🛠️ Technologies Used
 
-### HTML
-HTML is used to create and structure the webpage.
+* **HTML** – Website structure
+* **CSS** – Styling and layout
+* **JavaScript** – Interactive features
 
-The project uses HTML elements such as:
+## ✨ Features
 
-- `<h2>` – Displays the heading.
-- `<input>` – Allows the user to enter their name.
-- `<button>` – Allows the user to trigger the greeting.
-- `<p>` – Displays the greeting message.
-- `<script>` – Connects the HTML file with the JavaScript file.
+* Personal and educational information
+* Skills and project details
+* Show/Hide About Me section
+* Personalized greeting using the user's name
+* Thank-you message and alert
+* GitHub profile link
+* Image and card-based layout
 
-### JavaScript
-JavaScript is used to add functionality and interaction to the webpage.
-
-It is used to:
-
-- Create the `greetUser()` function.
-- Get the value entered by the user.
-- Access HTML elements using `document.getElementById()`.
-- Display the greeting message dynamically.
-- Handle the button click event.
-
----
-
-## 📂 Project Structure
+## 📂 Files
 
 ```text
-Name-Greeting-Project/
-│
+Portfolio/
 ├── index.html
+├── style.css
 ├── script.js
+├── images/
 └── README.md
+```
+
+## 🚀 How to Run
+
+1. Download or clone the repository.
+2. Open the project in VS Code.
+3. Open `index.html` using a browser or Live Server.
+4. Interact with the buttons and features.
+
+## 📚 Learning Outcomes
+
+This project helped practice **HTML structure, CSS styling, Flexbox, JavaScript functions, DOM manipulation, events, and GitHub**.
+
+## 👩‍💻 Author
+
+**Sakshi S**
+
+GitHub: `https://github.com/sakshishivananda247-cell`
+
+## 📄 Purpose
+
+Created for **educational and portfolio purposes**.
+
